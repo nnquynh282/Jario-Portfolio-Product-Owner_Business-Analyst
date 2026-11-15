@@ -1,6 +1,6 @@
 # Jario · Portfolio Product Owner / Business Analyst
 
-## Liên kết dự án (Project links)
+## Project descriptions
 
 | Hạng mục | Liên kết |
 | --- | --- |
