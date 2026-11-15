@@ -1,35 +1,35 @@
 # Jario · BA Case Study
 
-Jario là ứng dụng quản lý tài chính cá nhân số hóa phương pháp **6 chiếc hũ**, hướng đến nhóm người trẻ khó duy trì thói quen quản lý chi tiêu. Repo này chứa portfolio case study trình bày quá trình phân tích nghiệp vụ của dự án từ góc nhìn Business Analyst.
+Jario is a personal finance app that digitizes the **6 Jars** budgeting method for young users who struggle to keep up the habit of tracking their spending. This repo hosts the portfolio case study that walks through the project's business analysis process from a Business Analyst's perspective.
 
-**Xem portfolio:** https://nnquynh282.github.io/Jario-Portfolio-Product-Owner_Business-Analyst/
+**View the portfolio:** https://nnquynh282.github.io/Jario-Portfolio-Product-Owner_Business-Analyst/
 
-## Tổng quan
+## Overview
 
-| Hạng mục | Nội dung |
+| Item | Details |
 | --- | --- |
-| Vai trò | Business Analyst |
-| Loại dự án | Case study phân tích nghiệp vụ |
-| Thời gian | 4 tuần |
-| Kết quả | Prototype MVP và bộ tài liệu nghiệp vụ |
+| Role | Business Analyst |
+| Project type | Business analysis case study |
+| Duration | 4 weeks |
+| Outcome | MVP prototype and a full set of business documents |
 
-## Vấn đề và giải pháp
+## Problem and Solution
 
-**Vấn đề:** người dùng không biết tiền đi đâu và khó duy trì ghi chép chi tiêu; sản phẩm có tỷ lệ quay lại sử dụng thấp.
+**Problem:** users do not know where their money goes and find it hard to log expenses every day; the product suffers from low return usage.
 
-**Giải pháp:** giảm thao tác nhập liệu bằng OCR quét hóa đơn, dashboard 6 hũ trực quan, cảnh báo ngân sách và gợi ý từ AI.
+**Solution:** minimize data entry with receipt OCR, a visual 6 Jars dashboard, budget alerts and AI suggestions.
 
-**Phạm vi MVP:** quản lý 6 chiếc hũ, thu nhập, chi tiêu, ngân sách, báo cáo.
+**MVP scope:** 6 Jars management, income, expenses, budget, reports.
 
-## Tài liệu nghiệp vụ
+## Business Artifacts
 
 BRD · User Story · BPMN · UML · SRS · Wireframe · Data Model · API Specification
 
-## Liên kết dự án
+## Project Links
 
-| Hạng mục | Liên kết |
+| Item | Link |
 | --- | --- |
-| 🌐 Website giới thiệu | [jario-sevezzn.vercel.app](https://jario-sevezzn.vercel.app/) |
+| 🌐 Product website | [jario-sevezzn.vercel.app](https://jario-sevezzn.vercel.app/) |
 | 🎨 UI Design | [Figma](https://www.figma.com/design/fpe1LOBZq6UWMlTZcyFhGO/Quynh-PBA20.?node-id=22-15&t=QjfFgJFTut1bqxbk-1) |
-| 🧩 UML Diagram | [Diagram](https://app.diagrams.net/#G13O5akY-IvyietWkLmiXODYmSPKsMfVJ5#%7B%22pageId%22%3A%22pKq4i-NVHhVrCpTwNiw2%22%7D) |
-| 📚 Confluence | [Confluence](https://jariobynhuquynh.atlassian.net/wiki/x/tYAB) |
+| 🧩 UML Diagram | [diagrams.net](https://app.diagrams.net/#G13O5akY-IvyietWkLmiXODYmSPKsMfVJ5#%7B%22pageId%22%3A%22pKq4i-NVHhVrCpTwNiw2%22%7D) |
+| 📚 SRS (Software Requirements Specification) | [Confluence](https://jariobynhuquynh.atlassian.net/wiki/x/tYAB) |
